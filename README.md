@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moses</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Web and AI Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eriazaru" alt="eriazaru" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eriazaru17" alt="eriazaru17" /></a> </p>
 
 - 🔭 I’m currently working on **AI/ML and Statistics**
 
